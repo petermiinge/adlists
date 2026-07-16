@@ -1,0 +1,42 @@
+[
+  {
+    "name": "AdGuard DNS Filter",
+    "url": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"
+  },
+  {
+    "name": "AWAvenue Ads Rule",
+    "url": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt"
+  },
+  {
+    "name": "Yoyo",
+    "url": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext"
+  },
+  {
+    "name": "1Hosts Lite",
+    "url": "https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Lite/adblock.txt"
+  },
+  {
+    "name": "SomeoneWhoCares",
+    "url": "https://someonewhocares.org/hosts/zero/hosts"
+  },
+  {
+    "name": "HaGeZi Multi",
+    "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt"
+  },
+  {
+    "name": "HaGeZi Pro",
+    "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt"
+  },
+  {
+    "name": "StevenBlack Hosts",
+    "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts"
+  },
+  {
+    "name": "OISD Small",
+    "url": "https://small.oisd.nl/"
+  },
+  {
+    "name": "OISD Big",
+    "url": "https://big.oisd.nl/"
+  }
+]
