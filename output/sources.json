@@ -20,6 +20,14 @@
     "url": "https://someonewhocares.org/hosts/zero/hosts"
   },
   {
+    "name": "HaGeZi Multi",
+    "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt"
+  },
+  {
+    "name": "HaGeZi Pro",
+    "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt"
+  },
+  {
     "name": "StevenBlack Hosts",
     "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts"
   },
