@@ -12,6 +12,10 @@
     "url": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext"
   },
   {
+    "name": "1Hosts Lite",
+    "url": "https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Lite/adblock.txt"
+  },
+  {
     "name": "SomeoneWhoCares",
     "url": "https://someonewhocares.org/hosts/zero/hosts"
   },
